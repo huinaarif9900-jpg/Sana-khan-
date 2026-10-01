@@ -1,0 +1,6 @@
+{
+  "name": "SANA AI",
+  "description": "SANA AI V3 — Real Android voice assistant with Gemini AI, natural voice synthesis, phone control, tools, and background service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
